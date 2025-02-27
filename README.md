@@ -3,7 +3,7 @@
 ### **Master 1 - Visual Computing, USTHB (2024/2025)**
 **Course:** Problem Solving - TP by *Miss Sebain Meriem*  
 
-![Sokoban Game Example](https://en.wikipedia.org/wiki/Sokoban)
+![Sokoban Game Example](https://upload.wikimedia.org/wikipedia/commons/4/4b/Sokoban_ani.gif)
 
 ## **📌 About**
 Sokoban is a classic puzzle game where a player pushes boxes onto target locations. This project models Sokoban as a search problem and implements **BFS and A\*** algorithms to solve it. The goal is to find **efficient solutions** and visualize them using **Pygame**.
