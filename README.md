@@ -2,11 +2,15 @@
 # **🧩 Sokoban Solver AI**
 ### **Master 1 - Visual Computing, USTHB (2024/2025)**
 
-**Course:** Problem Solving - TP by *Dr SEBAI Meriem*  
+**Course:** Problem Solving - TP by *Dr SEBAI Meriem* 
+<br>  
+
 📄 **[Project Support (PDF)](./Sokoban_Solver_Report.pdf)**
+<br>  
 
 
 ![Sokoban Game Example](https://upload.wikimedia.org/wikipedia/commons/4/4b/Sokoban_ani.gif)
+<br>  
 
 
 ## **📌 About**
