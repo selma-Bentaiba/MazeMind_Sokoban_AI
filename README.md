@@ -5,7 +5,7 @@
 **Course:** Problem Solving - TP by *Dr SEBAI Meriem* 
 <br>  
 
-📄 **[Project Support (PDF)](./Sokoban_Solver_Report.pdf)**
+📄 **[Project Support (PDF)](./📄_sokoban_project.pdf)**
 <br>  
 
 
