@@ -1,9 +1,13 @@
 
 # **🧩 Sokoban Solver AI**
 ### **Master 1 - Visual Computing, USTHB (2024/2025)**
+
 **Course:** Problem Solving - TP by *Dr SEBAI Meriem*  
+📄 **[Project Support (PDF)](./Sokoban_Solver_Report.pdf)**
+
 
 ![Sokoban Game Example](https://upload.wikimedia.org/wikipedia/commons/4/4b/Sokoban_ani.gif)
+
 
 ## **📌 About**
 Sokoban is a classic puzzle game where a player pushes boxes onto target locations. This project models Sokoban as a search problem and implements **BFS and A\*** algorithms to solve it. The goal is to find **efficient solutions** and visualize them using **Pygame**.
@@ -32,6 +36,7 @@ Sokoban is a classic puzzle game where a player pushes boxes onto target locatio
 
 ---
 
+
 ## **📦 Installation**
 1️⃣ Clone the repository:
 ```bash
@@ -40,7 +45,7 @@ git clone https://github.com/selma-Bentaiba/MazeMind_Sokoban_AI.git
 ```
 2️⃣ Install dependencies:
 ```bash
-pip install pygame numpy
+pip install pygame 
 ```
 3️⃣ Run the solver:
 ```bash
@@ -67,10 +72,11 @@ BFS is a **uniform-cost search** that explores all possible moves **level by lev
 A\* is an **informed search algorithm** that finds the optimal path efficiently by combining:  
 - **G(n):** Cost from the start to the current state.  
 - **H(n):** Estimated cost from the current state to the goal.  
-
-\[
-F(n) = G(n) + H(n)
-\]
+               
+               \[
+               F(n) = G(n) + H(n)
+               \]
+  
 
 It uses **heuristics** to improve performance:  
 
@@ -90,7 +96,10 @@ It uses **heuristics** to improve performance:
 
 
 
+
 ---
+
+
 
 ## **📜 Code Overview**
 ### **🔹 `main.py`**
